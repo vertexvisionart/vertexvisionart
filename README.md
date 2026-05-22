@@ -32,9 +32,11 @@ _No published writing yet. Posts and talks will appear here._
 
 ## § 03 — Activity
 
-<!-- Wired in Task 5 after the snake Action runs for the first time. -->
-
-_Activity graph regenerates daily — appears here after first workflow run._
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake.svg">
+  <img alt="vertexvisionart's contribution graph as a snake game" src="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -42,4 +44,4 @@ _Activity graph regenerates daily — appears here after first workflow run._
 
 | | |
 |---|---|
-| **§ 04 — STATS**<br><br>_Wired in Task 5._ | **§ 05 — CONTACT**<br><br>▸ [email](mailto:danilprolook333@gmail.com)<br>▸ [telegram](https://t.me/A1245623) |
+| **§ 04 — STATS**<br><br>![stats](https://github-readme-stats.vercel.app/api?username=vertexvisionart&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&hide_rank=true&show_icons=true) | **§ 05 — CONTACT**<br><br>▸ [email](mailto:danilprolook333@gmail.com)<br>▸ [telegram](https://t.me/A1245623) |
