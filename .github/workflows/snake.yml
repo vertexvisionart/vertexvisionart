@@ -27,6 +27,7 @@ jobs:
 
       - name: Strip stack-line bar
         run: |
+          sudo chmod -R u+w dist
           for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
             sed -i 's#<rect class="u u0"[^/]*/>##g' "$f"
             echo "stripped: $f"
