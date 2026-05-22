@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/vertex-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/vertex-hero-light.svg">
-  <img alt="VERTEX — ML Engineer / Builder" src="./assets/vertex-hero-dark.svg" width="900">
-</picture>
-
 I build ML-driven products end to end — from data and models to the
 backends and interfaces that put them in front of users. Currently
 open to founder-led teams shipping something interesting.
@@ -20,18 +14,18 @@ open to founder-led teams shipping something interesting.
 <tr>
 <td width="50%" valign="top">
 
-**PROJECT_01 · LANG**<br>
-`project-name`<br>
+<strong>PROJECT_01 · LANG</strong><br>
+<code>project-name</code><br>
 One-line description of what it does and why it matters.<br>
-→ [github.com/vertexvisionart/project-name](https://github.com/vertexvisionart/project-name)
+→ <a href="https://github.com/vertexvisionart/project-name">github.com/vertexvisionart/project-name</a>
 
 </td>
 <td width="50%" valign="top">
 
-**PROJECT_02 · LANG**<br>
-`another-thing`<br>
+<strong>PROJECT_02 · LANG</strong><br>
+<code>another-thing</code><br>
 Another one-liner. Tight. Result-oriented copy.<br>
-→ [github.com/vertexvisionart/another-thing](https://github.com/vertexvisionart/another-thing)
+→ <a href="https://github.com/vertexvisionart/another-thing">github.com/vertexvisionart/another-thing</a>
 
 </td>
 </tr>
@@ -63,17 +57,17 @@ _No published writing yet. Posts and talks will appear here._
 <tr>
 <td width="50%" valign="top">
 
-**§ 04 — STATS**
+<strong>§ 04 — STATS</strong>
 
-![stats](https://github-readme-stats.vercel.app/api?username=vertexvisionart&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&hide_rank=true&show_icons=true)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=vertexvisionart&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&hide_rank=true&show_icons=true">
 
 </td>
 <td width="50%" valign="top">
 
-**§ 05 — CONTACT**
+<strong>§ 05 — CONTACT</strong>
 
-▸ [email](mailto:danilprolook333@gmail.com)<br>
-▸ [telegram](https://t.me/A1245623)
+▸ <a href="mailto:danilprolook333@gmail.com">email</a><br>
+▸ <a href="https://t.me/A1245623">telegram</a>
 
 </td>
 </tr>
