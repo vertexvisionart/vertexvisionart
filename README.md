@@ -47,20 +47,7 @@ _No published writing yet. Posts and talks will appear here._
 
 ---
 
-## § 04 — Stats · § 05 — Contact
+## § 04 — Contact
 
-<table width="100%"><tr>
-<td width="50%" valign="top">
-<img src="./assets/spacer-440.svg" width="440" height="1" alt=""><br>
-<strong>§ 04 — STATS</strong><br><br>
-<a href="https://github.com/vertexvisionart"><img alt="followers" src="https://img.shields.io/github/followers/vertexvisionart?style=for-the-badge&color=e6edf3&labelColor=0d1117&label=FOLLOWERS"></a><br>
-<a href="https://github.com/vertexvisionart?tab=repositories"><img alt="public repos" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvertexvisionart&query=public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=e6edf3&labelColor=0d1117"></a><br>
-<a href="https://github.com/vertexvisionart"><img alt="stars" src="https://img.shields.io/github/stars/vertexvisionart?style=for-the-badge&color=e6edf3&labelColor=0d1117&label=TOTAL%20STARS&affiliations=OWNER"></a>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/spacer-440.svg" width="440" height="1" alt=""><br>
-<strong>§ 05 — CONTACT</strong><br><br>
 ▸ <a href="mailto:danilprolook333@gmail.com">email</a><br>
 ▸ <a href="https://t.me/A1245623">telegram</a>
-</td>
-</tr></table>
