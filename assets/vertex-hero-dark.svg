@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="VERTEX — ML Engineer / Builder">
+  <rect width="900" height="280" fill="#0d1117"/>
+  <g font-family="JetBrains Mono, SF Mono, ui-monospace, monospace" fill="#e6edf3">
+    <text x="40" y="50" font-size="22" xml:space="preserve" font-weight="700">██╗   ██╗███████╗██████╗ ████████╗███████╗██╗  ██╗</text>
+    <text x="40" y="78" font-size="22" xml:space="preserve" font-weight="700">██║   ██║██╔════╝██╔══██╗╚══██╔══╝██╔════╝╚██╗██╔╝</text>
+    <text x="40" y="106" font-size="22" xml:space="preserve" font-weight="700">██║   ██║█████╗  ██████╔╝   ██║   █████╗   ╚███╔╝ </text>
+    <text x="40" y="134" font-size="22" xml:space="preserve" font-weight="700">╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   ██╔══╝   ██╔██╗ </text>
+    <text x="40" y="162" font-size="22" xml:space="preserve" font-weight="700"> ╚████╔╝ ███████╗██║  ██║   ██║   ███████╗██╔╝ ██╗</text>
+    <text x="40" y="190" font-size="22" xml:space="preserve" font-weight="700">  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝</text>
+  </g>
+  <line x1="40" y1="218" x2="860" y2="218" stroke="#21262d" stroke-width="1"/>
+  <text x="40" y="248" font-family="JetBrains Mono, SF Mono, ui-monospace, monospace" font-size="14" letter-spacing="6" fill="#8b949e">— ML ENGINEER / BUILDER —</text>
+</svg>
