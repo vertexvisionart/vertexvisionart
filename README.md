@@ -42,7 +42,7 @@ _No published writing yet. Posts and talks will appear here._
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake.svg">
-  <img alt="vertexvisionart's contribution graph as a snake game" src="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake.svg">
+  <img alt="vertexvisionart's contribution graph as a snake game" src="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
