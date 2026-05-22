@@ -25,11 +25,14 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#0d1117,#21262d,#484f58,#8b949e,#e6edf3
             dist/github-contribution-grid-snake.gif?color_snake=#e6edf3&color_dots=#0d1117,#21262d,#484f58,#8b949e,#e6edf3
 
-      - name: Strip stack-line bar
+      - name: Strip stack-line bar and trim viewBox
         run: |
           mkdir -p clean
           for f in github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg; do
-            sed 's#<rect class="u u0"[^/]*/>##g' "dist/$f" > "clean/$f"
+            sed -e 's#<rect class="u u0"[^/]*/>##g' \
+                -e 's#viewBox="-16 -32 880 192"#viewBox="-16 -10 880 130"#g' \
+                -e 's#height="192"#height="130"#g' \
+                "dist/$f" > "clean/$f"
             echo "cleaned: $f"
           done
           cp dist/github-contribution-grid-snake.gif clean/
