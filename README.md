@@ -16,9 +16,26 @@ open to founder-led teams shipping something interesting.
 
 <!-- Each project is one cell. Add a new project: append a row below following the same shape. -->
 
-| | |
-|---|---|
-| **PROJECT_01 · LANG**<br>`project-name`<br>One-line description of what it does and why it matters.<br>→ [github.com/vertexvisionart/project-name](https://github.com/vertexvisionart/project-name) | **PROJECT_02 · LANG**<br>`another-thing`<br>Another one-liner. Tight. Result-oriented copy.<br>→ [github.com/vertexvisionart/another-thing](https://github.com/vertexvisionart/another-thing) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**PROJECT_01 · LANG**<br>
+`project-name`<br>
+One-line description of what it does and why it matters.<br>
+→ [github.com/vertexvisionart/project-name](https://github.com/vertexvisionart/project-name)
+
+</td>
+<td width="50%" valign="top">
+
+**PROJECT_02 · LANG**<br>
+`another-thing`<br>
+Another one-liner. Tight. Result-oriented copy.<br>
+→ [github.com/vertexvisionart/another-thing](https://github.com/vertexvisionart/another-thing)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,6 +59,22 @@ _No published writing yet. Posts and talks will appear here._
 
 ## § 04 — Stats · § 05 — Contact
 
-| | |
-|---|---|
-| **§ 04 — STATS**<br><br>![stats](https://github-readme-stats.vercel.app/api?username=vertexvisionart&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&hide_rank=true&show_icons=true) | **§ 05 — CONTACT**<br><br>▸ [email](mailto:danilprolook333@gmail.com)<br>▸ [telegram](https://t.me/A1245623) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**§ 04 — STATS**
+
+![stats](https://github-readme-stats.vercel.app/api?username=vertexvisionart&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&hide_rank=true&show_icons=true)
+
+</td>
+<td width="50%" valign="top">
+
+**§ 05 — CONTACT**
+
+▸ [email](mailto:danilprolook333@gmail.com)<br>
+▸ [telegram](https://t.me/A1245623)
+
+</td>
+</tr>
+</table>
