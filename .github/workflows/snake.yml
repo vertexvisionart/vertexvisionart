@@ -27,16 +27,18 @@ jobs:
 
       - name: Strip stack-line bar
         run: |
-          sudo chmod -R u+w dist
-          for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
-            sed -i 's#<rect class="u u0"[^/]*/>##g' "$f"
-            echo "stripped: $f"
+          mkdir -p clean
+          for f in github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg; do
+            sed 's#<rect class="u u0"[^/]*/>##g' "dist/$f" > "clean/$f"
+            echo "cleaned: $f"
           done
+          cp dist/github-contribution-grid-snake.gif clean/
+          ls -la clean/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: clean
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
