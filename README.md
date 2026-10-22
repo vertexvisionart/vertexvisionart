@@ -1,90 +1,81 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/postcode-winner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/postcode-winner-light.svg">
-  <img src="./assets/postcode-winner-light.svg" width="100%" alt="Vertex — ML engineer and builder. Two first-place team wins at PostCode Challenge 2026.">
-</picture>
+I build ML-driven products end to end — from data and models to the
+backends and interfaces that put them in front of users. Currently
+open to founder-led teams shipping something interesting.
 
-I build ML-driven products end to end — from data and models to the backends and interfaces people use.
-Natural language, computer vision, and the engineering that turns experiments into products.
-
-**Open to founder-led teams building something useful.** [Let's talk →](mailto:danilprolook333@gmail.com)
+[![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-HIRE_ME-e6edf3?style=for-the-badge&labelColor=0d1117)](mailto:danilprolook333@gmail.com)
 
 ---
 
-## § 01 — Two Tracks. Two First Places.
+## § 01 — Selected Work
 
-**PostCode Challenge 2026 · Team «Mega Команда» · 1st place in both tracks**
+<!-- Each project is one cell. Add a new project: append a row below following the same shape. -->
 
-### 01 / Support Intelligence
-
-**Track: «Мониторинг и категоризация обращений»**
-
-**Pulse Support / «Пульс поддержки»** — an AI assistant for Service Desk teams. Categorizes incoming requests, recommends a support line, retrieves similar resolved cases, and makes workload and SLA history easier to explore. The operator stays in control.
-
-`NLP` · `Semantic search` · `Classification` · `LLM-assisted analytics`
-
-### 02 / Transport Load Estimation
-
-**Track: «Загрузка транспорта по фото»**
-
-Estimate how full a truck's cargo space is from a photograph. Computer vision combines load estimation, cargo segmentation, and depth analysis to support visual inspection.
-
-`Computer vision` · `Model ensembles` · `Segmentation` · `Depth estimation`
-
-*Two team wins. Two different ML problems. Working services beyond the model.*
+<table width="100%"><tr>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_01 · PYTHON · PYTORCH</strong><br>
+<code>llm-hallucination-detector</code><br>
+LLM hallucination detector for Russian QA. QA-consistency verifier + CatBoost scorer + rank-average ensemble. Built for sberchallenge.<br>
+→ <a href="https://github.com/vertexvisionart/llm-hallucination-detector">github.com/vertexvisionart/llm-hallucination-detector</a>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_02 · LINUX KERNEL · ARM</strong><br>
+<code>orange-pi-npu-port</code><br>
+Mainline kernel port (6.6 → 6.12) of Orange Pi 6 Plus NPU driver. ResNet-50 inference at 28.8 TOPS.<br>
+→ <a href="https://github.com/vertexvisionart/orange-pi-npu-port">github.com/vertexvisionart/orange-pi-npu-port</a>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_03 · PYTHON · CATBOOST</strong><br>
+<code>cian-price-regression</code><br>
+CatBoost ensemble for apartment price regression. Feature interactions, target encoding, ToS-safe pipeline.<br>
+→ <a href="https://github.com/vertexvisionart/cian-price-regression">github.com/vertexvisionart/cian-price-regression</a>
+</td>
+</tr><tr>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_04 · PYTHON · CATBOOST</strong><br>
+<code>ml-competition-ensemble</code><br>
+Tabular ML competition pipeline. CatBoost stacking ensemble with target encoding and engineered interactions.<br>
+→ <a href="https://github.com/vertexvisionart/ml-competition-ensemble">github.com/vertexvisionart/ml-competition-ensemble</a>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_05 · C</strong><br>
+<code>kmeans-c</code><br>
+K-means clustering library in C99. K-means++ init, multi-restart, elbow + silhouette analysis.<br>
+→ <a href="https://github.com/vertexvisionart/kmeans-c">github.com/vertexvisionart/kmeans-c</a>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/spacer-290.svg" width="290" height="1" alt=""><br>
+<strong>PROJECT_06 · C</strong><br>
+<code>c-programming</code><br>
+Curated C exercises — algorithms, data structures. Multi-strategy ant problem, classic textbook examples, LeetCode.<br>
+→ <a href="https://github.com/vertexvisionart/c-programming">github.com/vertexvisionart/c-programming</a>
+</td>
+</tr></table>
 
 ---
 
-## § 02 — Selected Public Work
+## § 02 — Achievements
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / LLM QA</h3>
-<p><strong>Python · PyTorch · CatBoost</strong></p>
-<p>Russian QA verification: QA-consistency checks, a CatBoost scorer, and a rank-average ensemble.</p>
-<a href="https://github.com/vertexvisionart/llm-hallucination-detector">View repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / Edge AI &amp; Kernel Work</h3>
-<p><strong>Linux kernel · ARM · C</strong></p>
-<p>Orange Pi 6 Plus NPU driver port from Linux 6.6 to 6.12, with ResNet-50 inference bring-up.</p>
-<a href="https://github.com/vertexvisionart/orange-pi-npu-port">View repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / Real Estate Pricing</h3>
-<p><strong>Python · CatBoost</strong></p>
-<p>Apartment price regression with a CatBoost ensemble, feature interactions, and target encoding.</p>
-<a href="https://github.com/vertexvisionart/cian-price-regression">View repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Tabular ML</h3>
-<p><strong>Python · CatBoost</strong></p>
-<p>Tabular ML pipeline with stacking, target encoding, and engineered feature interactions.</p>
-<a href="https://github.com/vertexvisionart/ml-competition-ensemble">View repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>05 / K-means in C</h3>
-<p><strong>C99 · Algorithms</strong></p>
-<p>Clustering library with K-means++ initialization, multiple restarts, elbow analysis, and silhouette scoring.</p>
-<a href="https://github.com/vertexvisionart/kmeans-c">View repository →</a>
-</td>
-<td width="50%" valign="top">
-<h3>06 / C Basics</h3>
-<p><strong>C · Data structures</strong></p>
-<p>Algorithms and data structures through textbook problems, LeetCode, and a multi-strategy ant problem.</p>
-<a href="https://github.com/vertexvisionart/c-programming">View repository →</a>
-</td>
-</tr>
-</table>
+**PostCode Challenge 2026 · Team «Mega Команда»**
+
+- **1st place** — monitoring and categorization of support requests.
+- **1st place** — transport load estimation from photos.
 
 ---
 
-## § 03 — Build Log
+## § 03 — Writing / Talks
+
+<!-- Empty until first piece ships. Section header stays as a placeholder. -->
+
+_No published writing yet. Posts and talks will appear here._
+
+---
+
+## § 04 — Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vertexvisionart/vertexvisionart/output/github-contribution-grid-snake-dark.svg">
@@ -94,8 +85,7 @@ Estimate how full a truck's cargo space is from a photograph. Computer vision co
 
 ---
 
-## § 04 — Let's Build
+## § 05 — Contact
 
-[Email](mailto:danilprolook333@gmail.com) · [Telegram](https://t.me/A1245623)
-
-*Models are a starting point. Useful products are the goal.*
+▸ <a href="mailto:danilprolook333@gmail.com">email</a><br>
+▸ <a href="https://t.me/A1245623">telegram</a>
